@@ -1,0 +1,100 @@
+body{
+  background-color: rgba(0, 118, 139, 0.822);
+}
+.email{
+  color: purple;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 50px;
+}
+.image{
+  height: 250px;
+  width: 1150px;
+  border: none; 
+}  
+.name{
+  color: midnightblue;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 70px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+.prof{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.bio-block-p{
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+}  
+.certs{
+  color: midnightblue;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+.card-container{
+  margin-left: 220px;
+  display: grid;
+  grid-template-columns:300px 300px 300px;
+  text-align: center;
+  font-weight: lighter;
+}
+.card-image{
+  height: 150px;
+}
+.link-button{
+  margin-bottom: 5px;
+  border: none;
+  color: white;
+  background-color: cornflowerblue;
+  font-style: italic;
+  cursor: pointer;
+}
+.hr{
+  font-weight: bolder;
+  font-size: larger;
+}
+.p{
+  text-align: center;
+}
+button{
+  background-color: whitesmoke;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+ul{
+  margin-left: 42%;
+}
+.PM{
+  color: black;
+  font-weight: lighter;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0px;
+  font-size: 15px;
+}
+.mail{
+  color: purple;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0px;
+}
+.bottom-banner{
+  height: 200px;
+  width: 1150px;
+  border: none
+}
+.copyright-text{
+  font-weight: lighter;
+  color: black;
+  text-align: center;
+}
